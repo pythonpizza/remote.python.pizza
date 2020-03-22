@@ -26,9 +26,14 @@ export default class Speakers extends React.Component {
               >
                 CFP
               </a>{" "}
-              is open!!! You have until 6th April (UTC time) to apply! Each talk will
-              be 10 minutes long and we would love to have many first time
-              speakers!!
+              is open!!!
+            </p>
+            <br></br>
+            <p>
+              You have until 6th April (UTC time) to apply!
+            </p>
+            <p>
+              Each talk will be 10 minutes long and we would love to have many first time speakers!!
             </p>
           </Container>
         </Container>

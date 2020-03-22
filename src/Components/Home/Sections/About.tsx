@@ -11,12 +11,12 @@ export default class About extends React.Component {
           <p>
             <b>Python Pizza</b> is a micro conference organized by the Python Community.
           </p>
-          <br></br>
+          <br />
           <p>
             But this one is a truly special edition, a virus won't keep us apart!
             And we decided to use this unfortunate circumstances to give something back: all proceeds will go to <a href="https://www.msf.org/">Doctors Without Borders</a></Container>
           </p>
-        <br></br>
+        <br />
         <p>
           We believe in and encourage practical sessions, in which developers
           share their experience and lessons from real-world projects, each
