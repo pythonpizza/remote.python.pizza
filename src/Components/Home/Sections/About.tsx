@@ -24,7 +24,7 @@ export default class About extends React.Component {
           </p>
         <p>Thanks to the Python Pizza (Naples!) that started this format!</p>
         </Container>
-      </section >
+      </section>
     );
   }
 }
