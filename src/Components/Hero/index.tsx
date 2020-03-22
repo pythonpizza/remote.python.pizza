@@ -15,7 +15,7 @@ export default class Hero extends React.Component {
               remote @ your couch
             </a>
           </h2>
-          <h2>25 April 2020 - 07:00 UTC</h2>
+          <h2>25 April 2020 - 08:00 UTC</h2>
         </div>
 
         <Wave />
