@@ -9,13 +9,13 @@ export default class Hero extends React.Component {
     return (
       <div className="hero">
         <div className="hero--info">
-          <h1>Remote Python Pizza</h1>
+          <h1>Python Pizza</h1>
           <h2>
             <a target="_blank" rel="noopener noreferrer">
-              🌍 @ directly from your couch/desk/table
+              remote edition, directly from your couch
             </a>
           </h2>
-          <h2>9 May 2020 - 9 - 18 CET</h2>
+          <h2>9 May 2020 - 9:00 CET</h2>
         </div>
 
         <Wave />
