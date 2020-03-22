@@ -51,7 +51,7 @@ export default class Header extends React.Component {
                                 CoC
                             </a>
                         </li>
-                        <li>
+                        {/* <li>
                             <a
                                 href="https://ti.to/pythonpizza/remote-python-pizza"
                                 target="_blank"
@@ -59,7 +59,7 @@ export default class Header extends React.Component {
                             >
                                 Tickets
                             </a>
-                        </li>
+                        </li> */}
                     </ul>
                 </Container>
             </div>
