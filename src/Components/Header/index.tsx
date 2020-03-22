@@ -42,7 +42,7 @@ export default class Header extends React.Component {
                             </a>
                         </li>
                         <li>
-                            <a href="https://forms.gle/Hfdba6uCzeUrbmXM9" target="_blank" rel="noopener noreferrer">
+                            <a href="https://forms.gle/QEc3gqsyVboiNDXY6" target="_blank" rel="noopener noreferrer">
                                 Call for Proposals
                             </a>
                         </li>
