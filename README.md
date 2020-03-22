@@ -1,4 +1,4 @@
-This is the Hamburg version of the pizza python site.
+This is the Remote version of the pizza python site.
 
 It has been edited by a frontend amateur surfer not a pro so .. I am adding some info not to forget.
 

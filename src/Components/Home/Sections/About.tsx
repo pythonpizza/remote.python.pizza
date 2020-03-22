@@ -9,8 +9,7 @@ export default class About extends React.Component {
         <Container size={Sizes.medium}>
           <h1>Python Pizza</h1>
           <p>
-            <b>Python Pizza</b> is a micro conference organized by the Python
-            Hamburg Community.
+            <b>Python Pizza</b> is a micro conference organized by the Python Community.
           </p>
           <p>
             We bring the Python Community together for some amazing original
