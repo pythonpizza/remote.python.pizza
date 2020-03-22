@@ -13,8 +13,10 @@ export default class About extends React.Component {
           </p>
           <br />
           <p>
-            But this one is a truly special edition, a virus won't keep us apart!
-            And we decided to use this unfortunate circumstances to give something back: all proceeds will go to <a href="https://www.msf.org/">Doctors Without Borders</a>
+            And this one is a truly special edition, a virus won't keep us apart!
+          </p>
+          <p>
+            We decided to use this unfortunate circumstances to give something back: all proceeds will go to <a href="https://www.msf.org/">Doctors Without Borders</a>.
           </p>
           <br />
           <p>
