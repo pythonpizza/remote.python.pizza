@@ -51,15 +51,15 @@ export default class Header extends React.Component {
                                 CoC
                             </a>
                         </li>
-                        {/* <li>
+                        <li>
                             <a
-                                href="https://ti.to/pythonpizza/remote-python-pizza"
+                                href="https://ti.to/acpyss/remote-python-pizza-2020-1"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
                                 Tickets
                             </a>
-                        </li> */}
+                        </li>
                     </ul>
                 </Container>
             </div>
