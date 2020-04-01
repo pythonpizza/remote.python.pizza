@@ -19,12 +19,11 @@ export default () => (
         We do not tolerate harassment of conference participants in any form.
       </p>
       <p>
-        Sexual language and imagery is not appropriate for any conference venue,
-        including talks.
+        Sexual language and imagery is not appropriate.
       </p>
       <p>
         We expect all community participants to abide by this Code of Conduct in
-        all community venues—online and in-person—as well as in all one-on-one
+        all community as well as in all one-on-one
         communications pertaining to community business.
       </p>
       <p>
@@ -65,10 +64,10 @@ export default () => (
         <li>
           Abusive, discriminatory, derogatory or demeaning speech or actions
         </li>
-        <li>Sexual images in public spaces</li>
-        <li>Harassing, intimidation, stalking, or following</li>
+        <li>Sexual images</li>
+        <li>Harassing, intimidation, or stalking</li>
         <li>Sustained disruption of talks or other events</li>
-        <li>Inappropriate physical contact</li>
+        <li>Inappropriate online contact</li>
         <li>Invasion of personal space</li>
         <li>Unwelcome sexual attention</li>
         <li>Advocating for, or encouraging, any of the above behaviour</li>
@@ -93,25 +92,21 @@ export default () => (
       </p>
       <p>
         We will publish during the conference information on where to make a
-        report.
+        report. Contact through Slack "@Christian Barra" or "@Darya" for 
+        the communication any unacceptable behaviour.
       </p>
 
       <p>
         {" "}
-        When taking a personal report, our staff will ensure you are safe and
-        cannot be overheard. They may involve other event staff to ensure your
-        report is managed properly.
+        When taking a personal report, with your agreement, the staff members 
+        may involve other event staff to ensure your report is managed properly.
+        This report will remain private.
       </p>
       <p>
-        Once safe, we’ll ask you to tell us about what happened. This can be
-        upsetting, but we’ll handle it as respectfully as possible, and you can
-        bring someone to support you. You won’t be asked to confront anyone and
-        we won’t tell anyone who you are.
-      </p>
-      <p>
-        Our team will be happy to help you contact hotel/venue security, local
-        law enforcement, local support services, provide escorts, or otherwise
-        assist you to feel safe for the duration of the event.
+        During this private chat, we’ll ask you to tell us about what happened. 
+        This can be upsetting, but we’ll handle it as respectfully as possible, 
+        and you can bring someone to support you.
+        You won’t be asked to confront anyone and we won’t tell anyone who you are.
       </p>
       <p>We value your attendance.</p>
       <h2>Anonymous report</h2>
