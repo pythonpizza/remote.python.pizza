@@ -25,6 +25,9 @@ export default class About extends React.Component {
             talk is 10 mins long.
           </p>
           <p>
+            Programe out 10th April.
+          </p>
+          <p>
             Thanks to the Python Pizza (Naples!) that started this format!
         </p>
         </Container>
