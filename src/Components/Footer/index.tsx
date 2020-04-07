@@ -41,7 +41,6 @@ export default class Footer extends React.Component {
                 <img src={social.icon} />
               </a>
             ))}
-            <p>Custom here if you need it</p>
           </div>
         </Container>
       </div>
