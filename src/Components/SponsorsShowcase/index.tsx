@@ -34,11 +34,11 @@ export default class SponsorsShowcase extends React.Component<
             </div>
           );
         })}
-        {/*sponsors.map(sponsor => (
+        {sponsors.map(sponsor => (
                     <a id={sponsor.id} key={sponsor.name} href={sponsor.link} target="_blank" rel="noopener noreferrer" style={{ gridArea: sponsor.id }}>
                         <img src={sponsor.photo} />
                     </a>
-                ))*/}
+                ))}
       </div>
     );
   }

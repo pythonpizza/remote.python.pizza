@@ -20,48 +20,10 @@ export const SPEAKERS: Speaker[] = [
 export const SPONSORS: Sponsor[][] = [
   [
     {
-      id: "sinnerschrader",
-      name: "SinnerSchrader",
-      photo: "https://via.placeholder.com/150",
-      link: "https://sinnerschrader.com"
-    },
-    {
-      id: "PySV",
-      name: "Python Software Verband",
-      photo: "https://via.placeholder.com/150",
-      link: "https://python-verband.org"
-    },
-    {
-      id: "PSF",
-      name: "Python Software Foundation",
-      photo: "https://via.placeholder.com/150",
-      link: "https://www.python.org"
-    },
-    {
-      id: "Yelp",
-      name: "Yelp",
-      photo: "https://via.placeholder.com/150",
-      link: "https://www.yelp.com"
-    }
-  ],
-  [
-    {
-      id: "pythonitalia",
-      name: "TBA",
-      photo: "https://via.placeholder.com/150",
-      link: "https://pycon.it/"
-    },
-    {
-      id: "psf",
-      name: "TBA",
-      photo: "https://via.placeholder.com/150",
-      link: "https://www.012factory.it/"
-    },
-    {
-      id: "f012actory",
-      name: "TBA",
-      photo: "https://via.placeholder.com/150",
-      link: "https://www.012factory.it/"
+      id: "HipoLabs",
+      name: "Hipo",
+      photo: require("assets/sponsors/hipolabs.png"),
+      link: "https://hipolabs.com"
     }
   ]
 ];
