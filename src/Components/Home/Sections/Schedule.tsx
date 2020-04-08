@@ -11,8 +11,11 @@ export default class Schedule extends React.Component {
         <Container size={Sizes.large}>
           <Container size={Sizes.small}>
             <h1>Schedule</h1>
+            <p>
+              The schedule will be out on April 10th.
+            </p>
           </Container>
-          <ul>
+          {/* <ul>
             {SCHEDULE.map(schedule => (
               <ScheduleItem
                 key={schedule.order}
@@ -24,7 +27,7 @@ export default class Schedule extends React.Component {
                 }
               />
             ))}
-          </ul>
+          </ul> */}
         </Container>
       </section>
     );

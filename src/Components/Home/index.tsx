@@ -16,8 +16,8 @@ export default class Home extends React.Component {
       <div className="home">
         <Hero />
         <About />
-        <Speakers />
-        {/* <Schedule /> */}
+        {/* <Speakers /> */}
+        <Schedule />
         <Sponsors />
         <Coc />
       </div>
