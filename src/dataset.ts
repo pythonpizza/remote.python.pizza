@@ -22,7 +22,7 @@ export const SPONSORS: Sponsor[][] = [
     {
       id: "HipoLabs",
       name: "Hipo",
-      photo: require("Assets/sponsors/hipolabs.png"),
+      photo: require("assets/sponsors/hipolabs.png"),
       link: "https://hipolabs.com"
     }
   ]
