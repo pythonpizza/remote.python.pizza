@@ -63,7 +63,7 @@ export const SPEAKERS: Speaker[] = [
     social: "https://twitter.com/lordmauve"
   },
   {
-    name: "Matte Guzzo",
+    name: "Matteo Guzzo",
     photo: require("Assets/speakers/guzzo.jpg"),
     job: "Job A",
     social: "https://twitter.com/_teoguso"
