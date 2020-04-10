@@ -25,4 +25,3 @@ For the first time you set up the project, run ```yarn``` to build all the files
 For running the site locally execute:
 
 ```$ yarn dev```
-
