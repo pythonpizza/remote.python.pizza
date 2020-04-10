@@ -10,15 +10,12 @@ export default class Schedule extends React.Component {
       <section id="schedule" className="schedule">
         <Container size={Sizes.large}>
           <Container size={Sizes.small}>
-            <h1>Schedule</h1>
-            <p>
-              The schedule will be out on April 10th.
-            </p>
+            <h1>Schedule (time is UTC!)</h1>
           </Container>
-          {/* <ul>
-            {SCHEDULE.map(schedule => (
+          <ul>
+            {SCHEDULE.map((schedule, index) => (
               <ScheduleItem
-                key={schedule.order}
+                key={index}
                 schedule={schedule}
                 speaker={
                   typeof schedule.speaker !== "undefined"
@@ -27,7 +24,7 @@ export default class Schedule extends React.Component {
                 }
               />
             ))}
-          </ul> */}
+          </ul>
         </Container>
       </section>
     );
