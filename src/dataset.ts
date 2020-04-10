@@ -555,7 +555,7 @@ export const SCHEDULE: Schedule[] = [
   },
   {
     time: "16:48",
-    title: "Scikit-Learn",
+    title: "How to write a custom scikit-learn estimator",
     type: Types.TALK,
     speaker: 36
   },
