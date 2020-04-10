@@ -182,6 +182,54 @@ export const SPEAKERS: Speaker[] = [
     job: "Job B",
     social: "https://twitter.com/jtpio"
   },
+  {
+    name: "Laurent Picard",
+    photo: require("Assets/speakers/laurent.jpg"),
+    job: "Job B",
+    social: "https://twitter.com/PicardParis"
+  },
+  {
+    name: "Artur Czepiel",
+    photo: require("Assets/speakers/artur.jpg"),
+    job: "Job B",
+    social: "https://twitter.com/artcz"
+  },
+  {
+    name: "Alisa",
+    photo: require("Assets/speakers/alisa.jpg"),
+    job: "Job B",
+    social: "https://twitter.com/FatDataUnicorn"
+  },
+  {
+    name: "Ian Ozsvald",
+    photo: require("Assets/speakers/ian.jpeg"),
+    job: "Job B",
+    social: "https://twitter.com/ianozsvald"
+  },
+  {
+    name: "Dana Arsovska",
+    photo: "https://via.placeholder.com/150",
+    job: "Job B",
+    social: ""
+  },
+  {
+    name: "Iaroslav Shepilov",
+    photo: "https://via.placeholder.com/150",
+    job: "Job B",
+    social: ""
+  },
+  {
+    name: "Mircea Chira",
+    photo: "https://via.placeholder.com/150",
+    job: "Job B",
+    social: ""
+  },
+  {
+    name: "Maciej Majewski",
+    photo: "https://via.placeholder.com/150",
+    job: "Job B",
+    social: ""
+  },
 ];
 
 export const SCHEDULE: Schedule[] = [
@@ -372,5 +420,53 @@ export const SCHEDULE: Schedule[] = [
     title: "Control JupyterLab from Python notebooks",
     type: Types.TALK,
     speaker: 27
+  },
+  {
+    time: "15:12",
+    title: "Building smarter solutions with no expertise in machine learning",
+    type: Types.TALK,
+    speaker: 28
+  },
+  {
+    time: "15:24",
+    title: "Connecting more dots",
+    type: Types.TALK,
+    speaker: 29
+  },
+  {
+    time: "15:36",
+    title: "Burnout/depression in quarantine",
+    type: Types.TALK,
+    speaker: 30
+  },
+  {
+    time: "15:48",
+    title: "Flying Pandas - Dask, Modin & Vaex",
+    type: Types.TALK,
+    speaker: 31
+  },
+  {
+    time: "16:00",
+    title: "Serverless Functions in Python: A Simple Introduction",
+    type: Types.TALK,
+    speaker: 32
+  },
+  {
+    time: "16:12",
+    title: "Script server: dynamic web UI for scripts",
+    type: Types.TALK,
+    speaker: 33
+  },
+  {
+    time: "16:24",
+    title: "Introduction to web scraping with scrapy!",
+    type: Types.TALK,
+    speaker: 34
+  },
+  {
+    time: "16:36",
+    title: "TONIC - Autonomous, Visual-SLAM based robot in Python",
+    type: Types.TALK,
+    speaker: 35
   },
 ];
