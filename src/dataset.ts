@@ -469,4 +469,9 @@ export const SCHEDULE: Schedule[] = [
     type: Types.TALK,
     speaker: 35
   },
+  {
+    time: "16:48",
+    title: "More to come....",
+    type: Types.BREAK
+  },
 ];
