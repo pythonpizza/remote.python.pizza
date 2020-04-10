@@ -208,7 +208,7 @@ export const SPEAKERS: Speaker[] = [
   },
   {
     name: "Dana Arsovska",
-    photo: "https://via.placeholder.com/150",
+    photo: require("Assets/speakers/dana.jpeg"),
     job: "Job B",
     social: ""
   },
@@ -229,6 +229,90 @@ export const SPEAKERS: Speaker[] = [
     photo: "https://via.placeholder.com/150",
     job: "Job B",
     social: ""
+  },
+  {
+    name: "Adrin Jalali",
+    photo: require("Assets/speakers/adrin.jpg"),
+    job: "Job A",
+    social: "https://twitter.com/adrinjalali"
+  },
+  {
+    name: "Bruno Rocha",
+    photo: require("Assets/speakers/bruno.jpg"),
+    job: "Job B",
+    social: "https://twitter.com/rochacbruno"
+  },
+  {
+    name: "Veronica Hanus",
+    photo: require("Assets/speakers/veronica.jpg"),
+    job: "Job B",
+    social: "https://twitter.com/veronica_hanus"
+  },
+  {
+    name: "Cory Jez",
+    photo: require("Assets/speakers/cory.jpg"),
+    job: "Job B",
+    social: "https://twitter.com/bballmaths"
+  },
+  {
+    name: "Vinícius Gubiani Ferreira",
+    photo: "https://via.placeholder.com/150",
+    job: "Job B",
+    social: ""
+  },
+  {
+    name: "Max Humber",
+    photo: require("Assets/speakers/max.png"),
+    job: "Job B",
+    social: "https://twitter.com/maxhumber"
+  },
+  {
+    name: "Daniel Jordán",
+    photo: "https://via.placeholder.com/150",
+    job: "Job B",
+    social: ""
+  },
+  {
+    name: "Jocelyn Matthews",
+    photo: "https://via.placeholder.com/150",
+    job: "Job B",
+    social: ""
+  },
+  {
+    name: "Moshe Zadka",
+    photo: require("Assets/speakers/moshe.jpg"),
+    job: "Job A",
+    social: "https://twitter.com/moshezadka"
+  },
+  {
+    name: "Jason C. McDonald",
+    photo: require("Assets/speakers/jason.png"),
+    job: "Job B",
+    social: "https://twitter.com/codemouse92"
+  },
+  {
+    name: "Ken Youens-Clark",
+    photo: require("Assets/speakers/ken.jpg"),
+    job: "Job B",
+    social: "https://twitter.com/kycl4rk"
+  },
+  {
+    name: "Anais Dotis-Georgiou",
+    photo: require("Assets/speakers/anais.png"),
+    job: "Job B",
+    social: "https://twitter.com/AnaisDotis"
+  },
+  {
+    name: "Aly Sivji",
+    photo: require("Assets/speakers/aly.jpeg"),
+    job: "Job B",
+    social: "https://twitter.com/CaiusSivjus"
+  },
+  {
+    name: "Ajay Thorve",
+    photo: require("Assets/speakers/ajay.jpg"),
+    job: "Job B",
+    social: "https://twitter.com/AjayTh123"
   },
 ];
 
@@ -471,7 +555,101 @@ export const SCHEDULE: Schedule[] = [
   },
   {
     time: "16:48",
-    title: "More to come....",
+    title: "Scikit-Learn",
+    type: Types.TALK,
+    speaker: 36
+  },
+  {
+    time: "17:00",
+    title: "Pizza!",
+    type: Types.LUNCH
+  },
+  {
+    time: "18:00",
+    title: "Configuration Management with Dynaconf",
+    type: Types.TALK,
+    speaker: 37
+  },
+  {
+    time: "18:12",
+    title: "To comment or not? A data-driven look at attitudes toward code comments",
+    type: Types.TALK,
+    speaker: 38
+  },
+  {
+    time: "18:24",
+    title: "Scraping and analyzing PGA Tour golf data with Python",
+    type: Types.TALK,
+    speaker: 39
+  },
+  {
+    time: "18:36",
+    title: "pybr i18n: Bringing python for those who do not speak english",
+    type: Types.TALK,
+    speaker: 40
+  },
+  {
+    time: "18:48",
+    title: "Getting Started with Web Scraping",
+    type: Types.TALK,
+    speaker: 41
+  },
+  {
+    time: "19:00",
+    title: "Random Matrix Music Maker",
+    type: Types.TALK,
+    speaker: 42
+  },
+  {
+    time: "19:12",
+    title: "Python Bindings for a Decentralized Cloud Object Storage network",
+    type: Types.TALK,
+    speaker: 43
+  },
+  {
+    time: "19:24",
+    title: "Everything You Wished You Didn't Have to Know about Numbers in Python",
+    type: Types.TALK,
+    speaker: 44
+  },
+  {
+    time: "19:36",
+    title: "Functional Meets Objects",
+    type: Types.TALK,
+    speaker: 45
+  },
+  {
+    time: "19:48",
+    title: "Teaching test-driven development with pytest",
+    type: Types.TALK,
+    speaker: 46
+  },
+  {
+    time: "20:00",
+    title: "Break",
     type: Types.BREAK
+  },
+  {
+    time: "20:12",
+    title: "Everything You Wished You Didn't Have to Know about Numbers in Python",
+    type: Types.TALK,
+    speaker: 47
+  },
+  {
+    time: "20:24",
+    title: "Functional Meets Objects",
+    type: Types.TALK,
+    speaker: 48
+  },
+  {
+    time: "20:36",
+    title: "Teaching test-driven development with pytest",
+    type: Types.TALK,
+    speaker: 49
+  },
+  {
+    time: "20:48",
+    title: "Closing",
+    type: Types.OTHER
   },
 ];
