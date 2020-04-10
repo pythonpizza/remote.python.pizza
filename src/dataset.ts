@@ -631,19 +631,19 @@ export const SCHEDULE: Schedule[] = [
   },
   {
     time: "20:12",
-    title: "Everything You Wished You Didn't Have to Know about Numbers in Python",
+    title: "TimeSeries Databases and Pandas DataFrames ",
     type: Types.TALK,
     speaker: 47
   },
   {
     time: "20:24",
-    title: "Functional Meets Objects",
+    title: "Life without `pip install` 😱",
     type: Types.TALK,
     speaker: 48
   },
   {
     time: "20:36",
-    title: "Teaching test-driven development with pytest",
+    title: "GPU accelerated Crossfilter Vizualizations in Python",
     type: Types.TALK,
     speaker: 49
   },
