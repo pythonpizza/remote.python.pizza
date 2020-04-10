@@ -256,7 +256,7 @@ export const SPEAKERS: Speaker[] = [
   },
   {
     name: "Vinícius Gubiani Ferreira",
-    photo: "https://via.placeholder.com/150",
+    photo: require("Assets/speakers/vinicius.jpg"),
     job: "Job B",
     social: ""
   },
