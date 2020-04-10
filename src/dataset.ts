@@ -130,7 +130,7 @@ export const SPEAKERS: Speaker[] = [
   },
   {
     name: "Mark Smith",
-    photo: require("Assets/speakers/miroslav.jpg"),
+    photo: require("Assets/speakers/marksmith.jpg"),
     job: "Job B",
     social: "https://twitter.com/Judy2k"
   },
