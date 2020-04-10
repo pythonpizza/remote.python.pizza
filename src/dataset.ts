@@ -116,6 +116,72 @@ export const SPEAKERS: Speaker[] = [
     job: "Job B",
     social: "https://twitter.com/hendorf"
   },
+  {
+    name: "Łukasz Langa",
+    photo: require("Assets/speakers/langa.jpg"),
+    job: "Job B",
+    social: "https://twitter.com/llanga"
+  },
+  {
+    name: "Ben Nuttall",
+    photo: require("Assets/speakers/ben.jpeg"),
+    job: "Job B",
+    social: "https://twitter.com/ben_nuttall"
+  },
+  {
+    name: "Mark Smith",
+    photo: require("Assets/speakers/miroslav.jpg"),
+    job: "Job B",
+    social: "https://twitter.com/Judy2k"
+  },
+  {
+    name: "Disconnect3d",
+    photo: require("Assets/speakers/disconnected.jpg"),
+    job: "Job B",
+    social: "https://twitter.com/disconnect3d_pl"
+  },
+  {
+    name: "Markus Holtermann",
+    photo: require("Assets/speakers/markus.jpg"),
+    job: "Job B",
+    social: "https://twitter.com/m_holtermann"
+  },
+  {
+    name: "Vincent D. Warmerdam",
+    photo: require("Assets/speakers/vincent.jpg"),
+    job: "Job B",
+    social: "https://twitter.com/fishnets88"
+  },
+  {
+    name: "Alexander Hultnér",
+    photo: require("Assets/speakers/alexander.jpg"),
+    job: "Job B",
+    social: "https://twitter.com/ahultner"
+  },
+  {
+    name: "Marielle Dado",
+    photo: require("Assets/speakers/marielle.png"),
+    job: "Job B",
+    social: "https://twitter.com/marielli"
+  },
+  {
+    name: "Cheuk Ting Ho",
+    photo: require("Assets/speakers/cheuk.jpg"),
+    job: "Job B",
+    social: "https://twitter.com/cheukting_ho"
+  },
+  {
+    name: "Raphael Pierzina",
+    photo: require("Assets/speakers/hackebrot.jpg"),
+    job: "Job B",
+    social: "https://twitter.com/hackebrot"
+  },
+  {
+    name: "Jeremy Tuloup",
+    photo: require("Assets/speakers/jtpio.jpg"),
+    job: "Job B",
+    social: "https://twitter.com/jtpio"
+  },
 ];
 
 export const SCHEDULE: Schedule[] = [
@@ -178,6 +244,12 @@ export const SCHEDULE: Schedule[] = [
     type: Types.BREAK
   },
   {
+    time: "10:00",
+    title: "Composition over inheritance in Python 🧀🍅🧄🥦",
+    type: Types.TALK,
+    speaker: 26
+  },
+  {
     time: "10:12",
     title: "Python development for Windows",
     type: Types.TALK,
@@ -235,5 +307,70 @@ export const SCHEDULE: Schedule[] = [
     time: "12:00",
     title: "Pizza!",
     type: Types.LUNCH
+  },
+  {
+    time: "13:00",
+    title: "An AsyncIO Web app in 10 minutes with Starlette",
+    type: Types.TALK,
+    speaker: 17
+  },
+  {
+    time: "13:12",
+    title: "piwheels: a Python package repository for Raspberry Pi",
+    type: Types.TALK,
+    speaker: 18
+  },
+  {
+    time: "13:24",
+    title: "Everything You Know About MongoDB is Wrong",
+    type: Types.TALK,
+    speaker: 19
+  },
+  {
+    time: "13:36",
+    title: "sudo python is a trap, use isolate mode",
+    type: Types.TALK,
+    speaker: 20
+  },
+  {
+    time: "13:48",
+    title: "All Hands on Deck - Handling Security Issues",
+    type: Types.TALK,
+    speaker: 21
+  },
+  {
+    time: "14:00",
+    title: "Roman Numbers > API Design >> Word Embeddings",
+    type: Types.TALK,
+    speaker: 22
+  },
+  {
+    time: "14:12",
+    title: "Give your data classes super powers with pydantic",
+    type: Types.TALK,
+    speaker: 23
+  },
+  {
+    time: "14:24",
+    title: "How to Teach Python to Beginners: A Guide for Python Experts",
+    type: Types.TALK,
+    speaker: 24
+  },
+  {
+    time: "14:36",
+    title: "How to be Pythonic? Design a Query Language in Python",
+    type: Types.TALK,
+    speaker: 25
+  },
+  {
+    time: "14:48",
+    title: "Break",
+    type: Types.BREAK
+  },
+  {
+    time: "15:00",
+    title: "Control JupyterLab from Python notebooks",
+    type: Types.TALK,
+    speaker: 27
   },
 ];
