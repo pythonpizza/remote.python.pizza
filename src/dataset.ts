@@ -240,7 +240,7 @@ export const SCHEDULE: Schedule[] = [
   },
   {
     time: "08:12",
-    title: "On The Meaning of Version Numbers",
+    title: "On the Meaning of Version Numbers",
     type: Types.TALK,
     speaker: 0
   },
