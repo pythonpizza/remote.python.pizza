@@ -27,7 +27,9 @@ export const SPONSORS: Sponsor[][] = [
       name: "Python San Sebastian",
       photo: require("Assets/sponsors/pyss.png"),
       link: "https://pyss.org"
-    },
+    }
+  ],
+  [
     {
       id: "CONTACT Software",
       name: "CONTACT Software",
