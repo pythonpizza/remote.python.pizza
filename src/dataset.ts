@@ -244,7 +244,7 @@ export const SPEAKERS: Speaker[] = [
   },
   {
     name: "Maciej Majewski",
-    photo: "https://via.placeholder.com/150",
+    photo: require("Assets/speakers/majewski.jpg"),
     job: "Job B",
     social: ""
   },
