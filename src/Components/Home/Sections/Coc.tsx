@@ -92,8 +92,8 @@ export default () => (
       </p>
       <p>
         We will publish during the conference information on where to make a
-        report. Contact through Slack "@Christian Barra" or "@Darya" for 
-        the communication any unacceptable behaviour.
+        report. Contact through Discord "@Christian" or "@Darya" for 
+        the communication of any unacceptable behaviour.
       </p>
 
       <p>
