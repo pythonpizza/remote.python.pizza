@@ -5,28 +5,29 @@ import Schedule, { Types } from "@/Types/Schedule";
 export const SPONSORS: Sponsor[][] = [
   [
     {
+      id: "Python San Sebastian",
+      name: "Python San Sebastian",
+      photo: require("Assets/sponsors/pyss.png"),
+      link: "https://pyss.org"
+    },
+    {
+      id: "EuroPython Society",
+      name: "EuroPython Society",
+      photo: require("Assets/sponsors/europython.png"),
+      link: "https://www.europython-society.org/"
+    },
+    {
       id: "HipoLabs",
       name: "Hipo",
       photo: require("Assets/sponsors/hipolabs.png"),
       link: "https://hipolabs.com"
     },
+
     {
       id: "Wingware",
       name: "Wingware",
       photo: require("Assets/sponsors/wingware.png"),
       link: "https://wingware.com"
-    },
-    {
-      id: "Amboss",
-      name: "Amboss",
-      photo: require("Assets/sponsors/amboss.png"),
-      link: "https://www.amboss.com"
-    },
-    {
-      id: "Python San Sebastian",
-      name: "Python San Sebastian",
-      photo: require("Assets/sponsors/pyss.png"),
-      link: "https://pyss.org"
     }
   ],
   [
@@ -35,6 +36,32 @@ export const SPONSORS: Sponsor[][] = [
       name: "CONTACT Software",
       photo: require("Assets/sponsors/contact.jpg"),
       link: "https://www.contact-software.com/en/"
+    },
+    {
+      id: "Amboss",
+      name: "Amboss",
+      photo: require("Assets/sponsors/amboss.png"),
+      link: "https://www.amboss.com"
+    },
+    {
+      id: "JetBrains",
+      name: "JetBrains",
+      photo: require("Assets/sponsors/jetbrains.png"),
+      link: "https://www.jetbrains.com"
+    },
+    {
+      id: "Nordcloud",
+      name: "Nordcloud",
+      photo: require("Assets/sponsors/nordcloud.png"),
+      link: "https://www.nordcloud.com"
+    }
+  ],
+  [
+    {
+      id: "Kite Consult",
+      name: "Kite Consult",
+      photo: require("Assets/sponsors/kiteconsult.png"),
+      link: "https://kite-consult.de/en/"
     }
   ]
 ];
