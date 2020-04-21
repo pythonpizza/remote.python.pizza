@@ -52,6 +52,15 @@ export default class Header extends React.Component {
                         </li>
                         <li>
                             <a
+                                href="https://everytimezone.com/s/87ccaec8"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                What's my TZ? ⌚
+                            </a>
+                        </li>
+                        <li>
+                            <a
                                 href="https://ti.to/acpyss/remote-python-pizza-2020-1"
                                 target="_blank"
                                 rel="noopener noreferrer"
