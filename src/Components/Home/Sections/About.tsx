@@ -24,12 +24,6 @@ export default class About extends React.Component {
             share their experience and lessons from real-world projects, each
             talk is 10 mins long.
           </p>
-          <p>
-            Programe out 10th April.
-          </p>
-          <p>
-            Thanks to the Python Pizza (Naples!) that started this format!
-        </p>
         </Container>
       </section >
     );
