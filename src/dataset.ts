@@ -68,6 +68,12 @@ export const SPONSORS: Sponsor[][] = [
       name: "Voonage",
       photo: require("Assets/sponsors/vonage.png"),
       link: "https://www.vonage.com/"
+    },
+    {
+      id: "Bloomberg",
+      name: "Bloomberg",
+      photo: require("Assets/sponsors/bloomberg.png"),
+      link: "https://www.bloomberg.com/company/engineering/"
     }
   ]
 ];
