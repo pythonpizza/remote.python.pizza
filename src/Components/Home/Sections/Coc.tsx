@@ -92,27 +92,32 @@ export default () => (
       </p>
       <p>
         We will publish during the conference information on where to make a
-        report. Contact through Discord "@Christian" or "@Darya" for 
+        report. Contact through Discord "@Christian" or "@Darya" for
         the communication of any unacceptable behaviour.
       </p>
 
       <p>
         {" "}
-        When taking a personal report, with your agreement, the staff members 
+        When taking a personal report, with your agreement, the staff members
         may involve other event staff to ensure your report is managed properly.
         This report will remain private.
       </p>
       <p>
-        During this private chat, we’ll ask you to tell us about what happened. 
-        This can be upsetting, but we’ll handle it as respectfully as possible, 
+        During this private chat, we’ll ask you to tell us about what happened.
+        This can be upsetting, but we’ll handle it as respectfully as possible,
         and you can bring someone to support you.
         You won’t be asked to confront anyone and we won’t tell anyone who you are.
       </p>
       <p>We value your attendance.</p>
       <h2>Anonymous report</h2>
       <p>
-        You can make an anonymous report (we will publish a form for anonymous
-        reports).
+      <a
+          rel="noopener noreferrer"
+          target="_blank"
+          href="https://forms.gle/nHqoJn5hQccNk9Vt6"
+        >
+          You can make an anonymous report
+        </a>.
       </p>
       <p>
         We can’t follow up an anonymous report with you directly, but we will
