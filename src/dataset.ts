@@ -74,6 +74,26 @@ export const SPONSORS: Sponsor[][] = [
       name: "Bloomberg",
       photo: require("Assets/sponsors/bloomberg.png"),
       link: "https://www.bloomberg.com/company/engineering/"
+    },
+    {
+      id: "PyData Amsterdam",
+      name: "PyData Amsterdam",
+      photo: require("Assets/sponsors/ml_engineering.png"),
+      link: "https://amsterdam.pydata.org/"
+    }
+  ],
+  [
+    {
+      id: "textkernel",
+      name: "textkernel",
+      photo: require("Assets/sponsors/textkernel.png"),
+      link: "https://www.textkernel.com/"
+    },
+    {
+      id: "Infarm",
+      name: "Infarm",
+      photo: require("Assets/sponsors/infarm.png"),
+      link: "https://www.infarm.com/"
     }
   ]
 ];
