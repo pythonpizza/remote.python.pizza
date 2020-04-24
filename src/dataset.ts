@@ -107,6 +107,14 @@ export const SPONSORS: Sponsor[][] = [
       photo: require("Assets/sponsors/transcendwater.png"),
       link: "https://www.transcendh2o.com/"
     }
+  ],
+  [
+    {
+      id: "KÖNIGSWEG",
+      name: "Königsweg",
+      photo: require("Assets/sponsors/konigsweg.png"),
+      link: "https://www.koenigsweg.com/"
+    }
   ]
 ];
 
