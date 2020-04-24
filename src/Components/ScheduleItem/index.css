@@ -127,6 +127,11 @@
     top: -2rem;
     left: calc(50% - 6rem);
     transform: translate(-100%, -50%);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    font-size: 0.75em;
+    font-weight: 400;
 
     @media (--mobile) {
       top: -3.6rem;
@@ -136,9 +141,19 @@
     @media (--tablet) {
       top: 50%;
       left: auto;
-      right: 5rem;
+      right: 6rem;
       transform: translate(50%, -50%);
     }
+  }
+
+  &--time-row {
+    display: flex;
+    align-items: baseline;
+  }
+
+  &--time-tz {
+    font-size: 0.75em;
+    margin: 0 0.75ch;
   }
 
   &:nth-child(2n) {
@@ -154,9 +169,14 @@
       }
 
       .schedule-item--time {
-        left: 5rem;
+        left: 6rem;
         right: auto;
         transform: translate(-50%, -50%);
+        align-items: flex-start;
+      }
+      
+      .schedule-item--time-row {
+        flex-direction: row-reverse;
       }
     }
   }
