@@ -75,7 +75,6 @@ export default class ScheduleItem extends React.Component<
 
     const [hourString, minString] = schedule.time.split(':', 2)
     const time = new Date(Date.UTC(2020, 3, 25, parseInt(hourString), parseInt(minString)))
-    console.log(hourString, minString, time)
 
     return (
       <li className={scheduleItemClasses}>
