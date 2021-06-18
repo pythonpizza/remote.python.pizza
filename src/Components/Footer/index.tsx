@@ -20,6 +20,11 @@ const SOCIALS = [
     name: "instagram",
     icon: require("Assets/socials/instagram.png"),
     link: "https://www.instagram.com/python.pizza/"
+  },
+  {
+    name: "youtube",
+    icon: require("Assets/socials/youtube.png"),
+    link: "https://www.youtube.com/channel/UC21mhKl0lt-2uMnDG12EFAw/"
   }
 ];
 
